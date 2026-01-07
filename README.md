@@ -31,8 +31,9 @@
 **Python Code Visualizer** is a powerful library that helps developers and educators understand Python code execution by generating interactive, step-by-step visualizations. Watch your code come alive as you trace through variables, function calls, and control flow.
 
 <p align="center">
-  <img src="assets/demo-preview.webp" alt="Demo Preview" width="800">
+  <img src="https://raw.githubusercontent.com/jayachandranpm/python-code-visualizer/main/assets/demo-preview.webp" alt="Demo Preview" width="800">
 </p>
+
 
 
 ---
